@@ -1,0 +1,6 @@
+.backgroundflag{
+	background-image: url('assets/img/bandila.png');
+	background-repeat: no-repeat; 
+	background-attachment: fixed;
+  	background-size: cover; background-size: 100% 100%
+  }
